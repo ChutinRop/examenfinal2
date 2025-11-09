@@ -105,8 +105,6 @@ npm run dev
 
 ## 👨‍💻 Robinson Estuardo González Recinos Carnet:0904-22-11323
 
-  * **[Tu Nombre Completo]** - *[Tu Carnet (Opcional)]*
-
 <!-- end list -->
 
 ```
