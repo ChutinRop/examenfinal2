@@ -1,0 +1,21 @@
+# Ignorar TODAS las dependencias de Node, en cualquier carpeta
+**/node_modules/
+
+# Ignorar TODAS las carpetas de build
+**/dist/
+**/build/
+**/vite-cache/
+
+# Ignorar TODOS los archivos de entorno (contraseñas)
+**/.env
+**/.env.*
+*.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Archivos de OS/IDE
+.DS_Store
+.vscode/
