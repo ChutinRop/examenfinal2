@@ -1,22 +1,8 @@
-¡Absolutamente\! Un buen `README` es la parte más importante de tu repositorio.
-
-Aquí tienes un archivo `README.md` completo, escrito en Markdown. Solo tienes que **copiar, pegar** y **rellenar** la información en los `[corchetes]`.
-
------
-
-Crea un archivo llamado `README.md` en la raíz de tu proyecto (`restaurante-reservas/`) y pega este contenido:
-
-````markdown
 # 🍽️ Sistema de Reservas para Restaurante
 
-Proyecto full-stack (Backend y Frontend) desarrollado para el curso de **[Nombre de tu Curso]** de la Universidad Mariano Gálvez de Guatemala, Sede Huehuetenango.
+Proyecto full-stack (Backend y Frontend) desarrollado para el curso de **Desarrollo Web** de la Universidad Mariano Gálvez de Guatemala, Sede Huehuetenango.
 
 La aplicación moderniza el sistema de reservas de un restaurante familiar, reemplazando el cuaderno manual por una solución web digital que gestiona mesas, clientes y reservas en tiempo real.
-
-![Captura de pantalla del dashboard del admin](https://i.imgur.com/tu-captura-de-pantalla.png)
-*(Reemplaza esta URL con una de tus capturas de pantalla)*
-
----
 
 ## 🚀 Características Principales
 
@@ -117,7 +103,7 @@ npm run dev
 
 -----
 
-## 👨‍💻 Autor
+## 👨‍💻 Robinson Estuardo González Recinos Carnet:0904-22-11323
 
   * **[Tu Nombre Completo]** - *[Tu Carnet (Opcional)]*
 
